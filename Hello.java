@@ -8,6 +8,7 @@ public class Hello{
 		System.out.println("What is Git?");
 		System.out.println("That's DVCS");
 		System.out.println("리눅스 커널은 2002년 Bitkeeper라는 상용 DVCS 사용");
+		System.out.println("That's version control");
 	}
 }
 
