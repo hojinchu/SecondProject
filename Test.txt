@@ -1,0 +1,3 @@
+remote repository of Git_tutorial
+git add Test.txt
+git commit -m "remote repository add a Test.txt"
